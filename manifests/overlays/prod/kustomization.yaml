@@ -14,5 +14,3 @@ namePrefix: prod-
 images:
 - name: ceappacr.azurecr.io/template-for-aa
   newTag: "202410210730"
-- name: cepgstapacr.azurecr.io/template-for-aa
-  newTag: "202410210930"
